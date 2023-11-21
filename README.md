@@ -8,6 +8,6 @@ The script navigates through the blog pages, extracts information such as blog t
 
 ## Requirements
 
-- Python 3.x
+- Python
 - Selenium
 - Chrome WebDriver (compatible with your Chrome browser version)
